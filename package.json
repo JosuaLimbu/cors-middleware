@@ -3,5 +3,22 @@
     "axios": "^1.3.4",
     "cors": "^2.8.5",
     "express": "^4.18.2"
-  }
+  },
+  "name": "cors-middleware",
+  "description": "In the project directory, you can run:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "takde"
+  },
+  "author": "Josua-Limbu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "tidak",
+    "ada"
+  ]
 }

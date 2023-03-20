@@ -1,10 +1,10 @@
 const express = require('express');
 const members = require('./members');
 const getUsers = require('./users');
-const cors = require('cors')
+// const cors = require('cors');
 
 const app = express();
-app.use(cors());
+// app.use(cors());
 const port = 3000;
 
 app.get('/', (req, res) => {

@@ -1,11 +1,11 @@
-# Getting Started with Node JS by Josua Limbu
+# Getting Started with Node JS by Tokyo Group
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ## `npm install`
-install all packages from package.json on the cors web server
+install all packages from **package.json** on the cors web server
 
 ## `node index.js`
 Runs the app in the development mode.
